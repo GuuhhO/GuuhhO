@@ -27,10 +27,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📚 Certifications
+- [x] .NET Developer Training - desenvolvedor.io (2025)  
+- [x] Software Architect Training - desenvolvedor.io (2025)
+- [x] Git and GitHub from Beginner to Advanced - desenvolvedor.io (2024)
+- [x] Docker from Beginner to Advanced - desenvolvedor.io (2025)
 - [x] LGPD – Bradesco Foundation (2024)
-- [x] .NET Developer Training - desenvolvimento.io (2025)  
-- [x] Git and GitHub from Beginner to Advanced (2024)
-- [x] Docker from Beginner to Advanced (2025)
 
 ## 📫 Contact
 
@@ -69,11 +70,11 @@ ________________________________________________________________________________
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📚 Certificações
-
+- [x] Formação Desenvolvedor .NET - desenvolvedor.io (2025) 
+- [x] Formação Arquiteto de Software - desenvolvedor.io (2025) 
+- [x] Git e GitHub do Zero ao Avançado - desenvolvedor.io (2024)
+- [x] Docker do Zero ao Avançado - desenvolvedor.io (2025)
 - [x] LGPD - Fundação Bradesco (2024)  
-- [x] Formação Desenvolvedor .NET - desenvolvedor.io (2025)  
-- [x] Git e GitHub do Zero ao Avançado (2024)  
-- [x] Docker do Zero ao Avançado (2025)
 
 ## 📫 Contato
 
